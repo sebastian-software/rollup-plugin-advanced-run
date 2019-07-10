@@ -30,8 +30,5 @@
     "preppy": "^8.1.4",
     "typescript": "^3.5.3"
   },
-  "dependencies": {
-    "@babel/runtime": "^7.5.4",
-    "corejs": "^1.0.0"
-  }
+  "dependencies": {}
 }

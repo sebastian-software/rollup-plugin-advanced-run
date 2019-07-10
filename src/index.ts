@@ -53,7 +53,7 @@ interface rollupOptions {
   options?: rollupOptions;
 }
 
-export function advancedRollupRunPlugin(options: rollupOptions = {}) {
+export function advancedRun(options: rollupOptions = {}) {
   let input;
   let proc;
 

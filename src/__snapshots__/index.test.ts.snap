@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`states of executable 1`] = `
+Array [
+  Object {
+    "command": "successful.js",
+    "error": null,
+    "exitCode": 0,
+  },
+  Object {
+    "command": "failure.js",
+    "error": null,
+    "exitCode": 127,
+  },
+  Object {
+    "command": "abort.js",
+    "error": [Error: error],
+    "exitCode": Infinity,
+  },
+]
+`;

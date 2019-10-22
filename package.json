@@ -1,6 +1,6 @@
 {
   "name": "rollup-plugin-advanced-run",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "Run generated binaries having last exit code in a map",
   "main": "lib/index.cjs.js",
   "module": "lib/index.esm.js",
